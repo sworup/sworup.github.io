@@ -3,31 +3,11 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+<div id="introduction">
+  <p class="lead">Hi, I am Sworup Shakya. I am a Web Developer from Kathmandu Nepal. My passion is music, sports and litriture, and I love building interesting web applications.</p>
+  <p>I have been working in the field for more then 8 years. I have worked with various programming languages and frameworks during my career on both back-end and front-end technologies. </p>
+  <p>I started my career as a Flash ActionScript developer, working for more then 5 years developing frameworks for puzzle game logic and developing stand-alone flash websites. Then I moved on to working with PHP and am very proficient with raw php, Wordpress, CodeIgniter and Laravel. For a brief time for one of my employers, I worked with ASP.net MVC 3.</p>
+  <p>Currently I am working at Zimris Technologies Nepal holding the position of Senior Developer. Since, last few years I have been specifically working with Laravel.</p>
+  
+  <p>You can contact me <a href="contact">here</a>.</p>
 </div>
