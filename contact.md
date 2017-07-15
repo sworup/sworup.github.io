@@ -3,12 +3,19 @@ layout: page
 title: Contact
 ---
 
-<form action="https://formspree.io/swoshak@gmail.com" method="POST">
+<form id="contact-form" accept-charset="UTF-8" action="https://formspree.io/swoshak@gmail.com" method="POST">
 	<input type="hidden" name="_subject" value="Sworup.com.np contact Submition!" />
-    <label for="name">Name</label>
-    <input type="text" name="name" placeholder="Your Name">
-    <label for="email">Email</label>
-    <input type="email" name="_replyto" placeholder="Your Email Address">
-    <textarea name="message"></textarea>
+	<div class="form-group">
+    	<label for="name">Name</label>
+    	<input type="text" id="name" name="name" class="form-control" placeholder="Your Name">
+    </div>
+    <div class="form-group">
+    	<label for="email">Email</label>
+    	<input type="email" id="email" name="_replyto" class="form-control" placeholder="Your Email Address">
+    </div>
+    <div class="form-group">
+      <label for="msg">Message</label>
+      <textarea name="msgsage" id="msg" cols="30" rows="10" class="form-control"></textarea>
+    </div>
     <input type="submit" value="Send">
 </form>
