@@ -6,12 +6,16 @@
   color: rgba(255,255,255,.5);
   background-color: $sidebar-bg;
 
+  h1 {
+    a {
+      font-family: $logo-font;
+    }
+  }
+
   a {
     color: $milk;
     text-decoration: none;
-    &:hover {
-      color: $ceramic;
-    }
+    font-family: $menu-font;
   }
 }
 
@@ -40,7 +44,6 @@
   h1 {
     color: $tagline-color;
     margin-top: 0;
-    font-family: $logo-font;
     font-size: 1.7rem;
   }
 }
