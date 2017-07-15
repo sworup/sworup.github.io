@@ -8,7 +8,7 @@ url:                 https://sworup.com.np
 paginate:            5
 baseurl:             ''
 
-avatar:              https://graph.facebook.com/1065233578/picture?type=large
+avatar:              https://graph.facebook.com/1065233578/picture?type=square&width=200&height=200
 
 analytics_id:        UA-102632364-1
 # Assets
