@@ -5,6 +5,7 @@ title: Contact
 
 <form id="contact-form" accept-charset="UTF-8" action="https://formspree.io/swoshak@gmail.com" method="POST">
 	<input type="hidden" name="_subject" value="Sworup.com.np contact Submition!" />
+	<input type="text" name="_gotcha" style="display:none" />
 	<div class="form-group">
     	<label for="name">Name</label>
     	<input type="text" id="name" name="name" class="form-control" placeholder="Your Name">
