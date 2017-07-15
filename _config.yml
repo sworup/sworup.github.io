@@ -9,6 +9,8 @@ paginate:            5
 baseurl:             ''
 
 avatar:              https://graph.facebook.com/1065233578/picture?type=large
+
+analytics_id:        UA-102632364-1
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
