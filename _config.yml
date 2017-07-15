@@ -3,11 +3,12 @@ permalink:           pretty
 
 # Setup
 title:               Sworup Shakya
-tagline:             Web Developer
+tagline:             Web Developer, Writer & Music Lover
 url:                 https://sworup.com.np
 paginate:            5
-baseurl:             ""
+baseurl:             ''
 
+avatar:              https://graph.facebook.com/1065233578/picture?type=large
 # Assets
 #
 # We specify the directory for Jekyll so we can use @imports.
@@ -22,9 +23,9 @@ author:
   email:             markdotto@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             0.0.1
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/sworup/sworup.github.io
 
 # Gems
 gems:
