@@ -3,18 +3,20 @@ layout: page
 title: CV
 ---
 
-Sworup Shakya
-===
+# Sworup Shakya
+
+---
 
 Web Developer (PHP/Javascript/ActionScript)
 ---
+
 
 **Email:** [sworup.shakya@gmail.com](mailto:sworup.shakya@gmail.com)  
 **Phone #1:** +977-9841202378  
 **Phone #2:** +977-9808670765
 
-Work Experience
----
+## Work Experience
+
 
 Zimris Technologies Nepal Pvt. Ltd., Shivalaya Marg, Pokhara, Nepal  
 Sr. Developer  
