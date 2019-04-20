@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: Curriculum vitae
 ---
 
 # Sworup Shakya
@@ -18,7 +18,7 @@ Web Developer (PHP/Javascript/ActionScript)
 ## Work Experience
 
 
-Zimris Technologies Nepal Pvt. Ltd., Shivalaya Marg, Pokhara, Nepal  
+### Zimris Technologies Nepal Pvt. Ltd., Shivalaya Marg, Pokhara, Nepal  
 Sr. Developer  
 8.2015 -present
 
@@ -26,7 +26,7 @@ Worked on various web projects as a senior developer with a team of 3 developers
 
 ---
 
-Biz Technologies Pvt. Ltd., JP Road, Thamel, Kathmandu, Nepal
+### Biz Technologies Pvt. Ltd., JP Road, Thamel, Kathmandu, Nepal
 
 Sr. Developer
 
@@ -36,7 +36,7 @@ Worked on various websites, CMS and MIS systems. Mostly worked on PHP as a platf
 
 ---
 
-Wise Yak Solutions Pvt. Ltd., Gairidhara, Kathmandu, Nepal
+### Wise Yak Solutions Pvt. Ltd., Gairidhara, Kathmandu, Nepal
 
 Sr. Developer
 
@@ -46,7 +46,7 @@ Worked mostly on ASP.NET MVC3 as a platform. Worked with clients spanning from E
 
 ---
 
-Hi-Tech Valley I-Net, Bishal Basti, Bhatbhateni, Kathmandu, Nepal.
+### Hi-Tech Valley I-Net, Bishal Basti, Bhatbhateni, Kathmandu, Nepal.
 
 Web-Developer (PHP)
 
@@ -56,7 +56,7 @@ Worked on PHP as the platform. Worked on many projects with PHP and various PHP 
 
 ---
 
-Grafi Offshore Nepal, Baffal, Nepal. 
+### Grafi Offshore Nepal, Baffal, Nepal. 
 
 Sr. Flash Developer
 
@@ -70,7 +70,7 @@ Various flash applications expanding from, AS3 graph developments to Flash Game 
 
 ---
 
-Hi-Tech Valley I-Net, Bishal Basti, Bhatbhateni, Kathmandu, Nepal.
+### Hi-Tech Valley I-Net, Bishal Basti, Bhatbhateni, Kathmandu, Nepal.
 
 Sr. Flash Developer
 
@@ -80,7 +80,7 @@ Worked on various projects including a dynamic AD-banner maker module (with Flas
 
 ---
 
-Sila Trade International Pvt. Ltd., Pako New Road, Kathmandu, Nepal.
+### Sila Trade International Pvt. Ltd., Pako New Road, Kathmandu, Nepal.
 
 Network Administrator
 
@@ -90,7 +90,7 @@ Worked and maintained a network with more than 30 systems running and simultaneo
 
 ---
 
-The Hallmark Educational Consultancy Pvt. Ltd., Tri-Kuti Colony, Old Baneshwor, Kathmandu, Nepal.
+### The Hallmark Educational Consultancy Pvt. Ltd., Tri-Kuti Colony, Old Baneshwor, Kathmandu, Nepal.
 
  Tutor
 
@@ -100,23 +100,23 @@ Taught various IT subjects such as C Programming, C++, Computer Graphics, and We
 
 ---
 
-Freelance Work
+### Freelance Work
 		Nepalese Calendar Web-application
 		PHP (CodeIgniter), JQuery & CSS
 		2014
 Worked on an application that would generate a Nepalese calendar which would show the list of holidays and other events. The calendar would also show Tithis (astrological date according to Nepali standards) and would match English date to the particular Nepali date.
 
-Kathmandu Engineering College (KEC)’s Interactive CD
+### Kathmandu Engineering College (KEC)’s Interactive CD
 Flash ActionScript for Digital Age Computers (DAC), Lazimpat, Kathmandu, Nepal.
 2008/2009 & 2009/2010
 Designed and created the Interactive CD to be enclosed with the ‘2008/2009 and 2009/2010 Brochure for Kathmandu Engineering College (KEC), Kalimati, Kathmandu, Nepal’; as a side project completed within few days using Flash ActionScript 3.
 
-Freelance Flash Developer
+### Freelance Flash Developer
 Flash Developer
 03.2008 – 11.2008
 Worked on the group of sites for a European energy drinks company. These sites had Flash Action-script 2 front end and PHP & JavaScript backend and an xml based common interface.
 
-Other work
+### Other work
 Mastering PHP Design Patterns by Junade Ali
 Reviewer
 2016
@@ -124,27 +124,27 @@ Worked on reviewing the code and content of the book. Provided suggestions and f
 
 
  
-Education
+## Education
 
-BACHELOR OF INFORMATION TECHNOLOGY (BIT)
+### BACHELOR OF INFORMATION TECHNOLOGY (BIT)
 2007/2064  
 KIST College of Science & Technology, Kamalpohari, Kathmandu.
 Faculty: Science & Technology
 Board: Purbanchal University (PU)
 
-INTERMEDIATE (10+2) 
+### INTERMEDIATE (10+2) 
 2002/2059 
 United Academy, Kumaripati, Lalitpur.
 Faculty: Science (Math)
 Board: HSEB
 
-SLC
+### SLC
 2056
 Mahendra Adarsha Vidhyashram, Satdobato, Lalitpur.
 Board: HMG SLC
 
 
-Skills
+## Skills
 
  
 Core Skills
