@@ -17,6 +17,13 @@ Web Developer (PHP/Javascript/ActionScript)
 
 ## Work Experience
 
+### Sustainable Solutions Nepal, Kathmandu, Nepal  
+Sr. Developer  
+8.2015 -present
+
+Worked on various web projects as a senior developer with a team of 3 developers. Worked on and maintained a relatively busy in house project babynamegenie.com. Worked on sites with Laravel, Wordpress and core PHP. Worked on deployment of projects with Vue.js, Capistrano, load testing JMeter and Loctus. Managed a team of 3 developers and maintained the quality of the code along with doing most of the planning, coding and testing.
+
+---
 
 ### Zimris Technologies Nepal Pvt. Ltd., Shivalaya Marg, Pokhara, Nepal  
 Sr. Developer  
@@ -152,7 +159,9 @@ Core Skills
 Programming
 
 PHP (4/5)			★ ★ ★ ★ ☆
+
 Frameworks
+
 CodeIgniter 2		★ ★ ★ ★ ☆
 Laravel 5		★ ★ ★ ☆ ☆
 Smarty			★ ★ ☆ ☆ ☆
